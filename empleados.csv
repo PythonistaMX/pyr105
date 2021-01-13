@@ -1,6 +1,0 @@
-"","clave","fecha","estado","genero","edad","trimestre_1","trimestre_2","trimestre_3","trimestre_4","trimestre_5","suma","promedio"
-"A",1,2020-11-23,"CDMX","M",32,5,4,5,5,5,24,4.8
-"B",2,2020-11-12,"NL","F",45,3,5,2,5,5,20,4
-"C",3,2020-11-20,"CDMX","F",25,3,5,5,5,2,20,4
-"D",4,2020-11-07,"JAL","M",39,3,3,4,NA,NA,NA,NA
-"E",5,2020-11-22,"NL","F",42,2,2,1,2,1,8,1.6
